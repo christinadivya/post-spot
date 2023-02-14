@@ -1,0 +1,41 @@
+version: '2'
+
+services:
+#spotted-backend compose :-
+  spotted-backend:
+    image: "optisolbusiness/spotted:service-dev"
+    container_name: "spotted-backend"
+    # Expose ports [HOST:CONTAINER}
+    ports:
+      - "8001:8001"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "40k"
+        max-file: "20"
+
+#spotted-test compose:-
+  spotted-test:
+    image: "optisolbusiness/spotted:service-test"
+    container_name: "spotted-test"
+    # Expose ports [HOST:CONTAINER}
+    ports:
+      - "8002:8002"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "40k"
+        max-file: "20"
+
+#spotted-prod compose:-
+  spotted-prod:
+    image: "optisolbusiness/spotted:service-prod"
+    container_name: "spotted-prod"
+    # Expose ports [HOST:CONTAINER}
+    ports:
+      - "8003:8003"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "40k"
+        max-file: "20"

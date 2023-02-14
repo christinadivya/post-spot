@@ -1,0 +1,533 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF&#45;8"
+        }
+    },
+    "rss": {
+        "_attributes": {
+            "version": "2.0",
+            "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+            "xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+        },
+        "channel": {
+            "language": {
+                "_text": "en"
+            },
+            "title": {
+                "_text": "High Gear Media Network Feed"
+            },
+            "description": {
+                "_text": "Latest news, reviews, and more from around the High Gear Media network of sites"
+            },
+            "image": {
+                "url": {
+                    "_text": "https://static.thecarconnection.com/website/logo-hgm.gif"
+                },
+                "title": {
+                    "_text": "High Gear Media Network Feed"
+                },
+                "link": {
+                    "_text": "https://www.thecarconnection.com"
+                }
+            },
+            "lastBuildDate": {
+                "_text": "Wed, 24 Jul 2019 02:00:00 -0400"
+            },
+            "generator": {
+                "_text": "High Gear Media"
+            },
+            "link": {
+                "_text": "https://www.thecarconnection.com"
+            },
+            "atom:link": {
+                "_attributes": {
+                    "rel": "self",
+                    "type": "application/rss+xml",
+                    "href": "https://feeds.highgearmedia.com/"
+                }
+            },
+            "item": [
+                {
+                    "title": {
+                        "_text": "2020 Audi Q3 Sportback revealed, won't reach US"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;audi&#45;q3&#45;sportback_100709200_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Audi Q3 Sportback\" align=\"left\" hspace=\"5\" />Audi has gone all guns blazing into its SUV offensive. The automaker already offers six SUVs ranging from the Q2 right up to the Q8, and now it's about to launch coupe&#45;like offerings of many of these, or Sportbacks, in Audi parlance. The first of these was revealed on Wednesday in the form of the Q3 Sportback, which is essentially Audi's latest Q3..."
+                    },
+                    "pubDate": {
+                        "_text": "Wed, 24 Jul 2019 02:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124185_2020-audi-q3-sportback-revealed-wont-reach-us"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124185_2020-audi-q3-sportback-revealed-wont-reach-us"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Viknesh Vijayenthiran)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124185_2020-audi-q3-sportback-revealed-wont-reach-us#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Viknesh Vijayenthiran"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;audi&#45;q3&#45;sportback_100709200_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Audi Q3 Sportback\" align=\"left\" hspace=\"5\" />Audi has gone all guns blazing into its SUV offensive. The automaker already offers six SUVs ranging from the Q2 right up to the Q8, and now it's about to launch coupe&#45;like offerings of many of these, or Sportbacks, in Audi parlance. The first of these was revealed on Wednesday in the form of the Q3 Sportback, which is essentially Audi's latest Q3..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Blaupunkt offers classic car radio packed with modern tech"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/blaupunkt&#45;sqr&#45;46&#45;radio&#45;head&#45;unit&#45;with&#45;modern&#45;technology_100709179_t.gif\" width=\"90\" height=\"60\" alt=\"Blaupunkt SQR 46 radio head unit with modern technology\" align=\"left\" hspace=\"5\" />Classic car owners may love the experience of driving a vintage machine, but they may also miss some modern conveniences like Bluetooth connectivity when behind the wheel. Enthusiasts should be delighted to learn that car audio company Blaupunkt is bringing back a fan&#45;favorite solution, only this time, it's gotten with the times. The company..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 17:30:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124178_blaupunkt-revives-classic-car-radio-packed-with-modern-tech"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124178_blaupunkt-revives-classic-car-radio-packed-with-modern-tech"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124178_blaupunkt-revives-classic-car-radio-packed-with-modern-tech#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/blaupunkt&#45;sqr&#45;46&#45;radio&#45;head&#45;unit&#45;with&#45;modern&#45;technology_100709179_t.gif\" width=\"90\" height=\"60\" alt=\"Blaupunkt SQR 46 radio head unit with modern technology\" align=\"left\" hspace=\"5\" />Classic car owners may love the experience of driving a vintage machine, but they may also miss some modern conveniences like Bluetooth connectivity when behind the wheel. Enthusiasts should be delighted to learn that car audio company Blaupunkt is bringing back a fan&#45;favorite solution, only this time, it's gotten with the times. The company..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Ousted executive Carlos Ghosn sues Nissan, Mitsubishi"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/carlos&#45;ghosn_100684049_t.gif\" width=\"90\" height=\"60\" alt=\"Carlos Ghosn\" align=\"left\" hspace=\"5\" />The former Renault&#45;Nissan Alliance chairman, Carlos Ghosn, has fired back at his former employer with a lawsuit. According to The Financial Times (subscription required) in a report last Thursday, Ghosn has is suing Nissan and Mitsubishi Motors in The Netherlands. A joint venture called Nissan&#45;Mitsubishi BV (NMBV) employed Ghosn as chairman when..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 17:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124177_ousted-executive-carlos-ghosn-sues-nissan-mitsubishi"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124177_ousted-executive-carlos-ghosn-sues-nissan-mitsubishi"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124177_ousted-executive-carlos-ghosn-sues-nissan-mitsubishi#comments"
+                    },
+                    "category": {
+                        "_cdata": "Carlos Ghosn"
+                    },
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/carlos&#45;ghosn_100684049_t.gif\" width=\"90\" height=\"60\" alt=\"Carlos Ghosn\" align=\"left\" hspace=\"5\" />The former Renault&#45;Nissan Alliance chairman, Carlos Ghosn, has fired back at his former employer with a lawsuit. According to The Financial Times (subscription required) in a report last Thursday, Ghosn has is suing Nissan and Mitsubishi Motors in The Netherlands. A joint venture called Nissan&#45;Mitsubishi BV (NMBV) employed Ghosn as chairman when..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Base 2020 Chevrolet Corvette Stingray to boast 490 hp"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;chevrolet&#45;corvette_100708538_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Chevrolet Corvette Stingray\" align=\"left\" hspace=\"5\" />The most jaw&#45;dropping moment at the 2020 Chevrolet Corvette Stingray's debut event wasn't when the sheet came off the car, or when we heard it roar to life. No, it was when we learned it would cost under $60,000. Yet, until now, we didn't know how much power the sub&#45;$60,000 Corvette Stingray would provide. General Motors spokesman Kevin Kelley..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 16:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124176_base-2020-chevrolet-corvette-stingray-to-boast-490-hp"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124176_base-2020-chevrolet-corvette-stingray-to-boast-490-hp"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124176_base-2020-chevrolet-corvette-stingray-to-boast-490-hp#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;chevrolet&#45;corvette_100708538_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Chevrolet Corvette Stingray\" align=\"left\" hspace=\"5\" />The most jaw&#45;dropping moment at the 2020 Chevrolet Corvette Stingray's debut event wasn't when the sheet came off the car, or when we heard it roar to life. No, it was when we learned it would cost under $60,000. Yet, until now, we didn't know how much power the sub&#45;$60,000 Corvette Stingray would provide. General Motors spokesman Kevin Kelley..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "This is the Audi RS 8 that could have been"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/audi&#45;a8_100709178_t.gif\" width=\"90\" height=\"60\" alt=\"Prototype Audi RS 8\" align=\"left\" hspace=\"5\" />A production Audi RS 8 has never come to market, but Audi Sport came mighty close to building one. Photos published to Facebook from the Audi Forum in Neckarsulm, Germany, show the only RS 8 ever built. The car came out of hiding for Audi's 25&#45;year celebration of the RS badge and is currently on display as part of a historic exhibition at the Audi..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 15:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124175_this-is-the-audi-rs-8-that-could-have-been"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124175_this-is-the-audi-rs-8-that-could-have-been"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124175_this-is-the-audi-rs-8-that-could-have-been#comments"
+                    },
+                    "category": [
+                        {
+                            "_cdata": "RS"
+                        },
+                        {
+                            "_cdata": "sport sedans"
+                        }
+                    ],
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/audi&#45;a8_100709178_t.gif\" width=\"90\" height=\"60\" alt=\"Prototype Audi RS 8\" align=\"left\" hspace=\"5\" />A production Audi RS 8 has never come to market, but Audi Sport came mighty close to building one. Photos published to Facebook from the Audi Forum in Neckarsulm, Germany, show the only RS 8 ever built. The car came out of hiding for Audi's 25&#45;year celebration of the RS badge and is currently on display as part of a historic exhibition at the Audi..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Ford shows off electric F-150 prototype's capabilities"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/ford&#45;f&#45;150_100709172_t.gif\" width=\"90\" height=\"60\" alt=\"Ford F&#45;Series electric truck prototype\" align=\"left\" hspace=\"5\" />Ford is barreling ahead with a battery&#45;electric version of its most important vehicle line, the F&#45;Series. The Blue Oval teased the capability of the truck's all&#45;electric powertrain in a video released Tuesday. Ford decided to go big and have a prototype electric F&#45;150 tow one million pounds. The video brings a handful of F&#45;Series owners to a..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 14:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124174_ford-shows-off-electric-f-150-prototypes-capabilities"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124174_ford-shows-off-electric-f-150-prototypes-capabilities"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124174_ford-shows-off-electric-f-150-prototypes-capabilities#comments"
+                    },
+                    "category": [
+                        {
+                            "_cdata": "Videos"
+                        },
+                        {
+                            "_cdata": "Teaser"
+                        }
+                    ],
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/ford&#45;f&#45;150_100709172_t.gif\" width=\"90\" height=\"60\" alt=\"Ford F&#45;Series electric truck prototype\" align=\"left\" hspace=\"5\" />Ford is barreling ahead with a battery&#45;electric version of its most important vehicle line, the F&#45;Series. The Blue Oval teased the capability of the truck's all&#45;electric powertrain in a video released Tuesday. Ford decided to go big and have a prototype electric F&#45;150 tow one million pounds. The video brings a handful of F&#45;Series owners to a..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Cupra readies EV concept for 2019 Frankfurt auto show"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/teaser&#45;for&#45;cupra&#45;ev&#45;concept&#45;debuting&#45;at&#45;2019&#45;frankfurt&#45;auto&#45;show_100709167_t.gif\" width=\"90\" height=\"60\" alt=\"Teaser for Cupra EV concept debuting at 2019 Frankfurt auto show\" align=\"left\" hspace=\"5\" />Cupra, the performance sub&#45;brand of Volkswagen Group's Spanish unit SEAT, will use September's 2019 Frankfurt International Motor Show for the debut of a new concept, one powered by electricity. Cupra on Monday released a teaser shot for its new concept, which is described as a high&#45;performance vehicle combining coupe&#45;like proportions with the..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 13:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124169_cupra-readies-ev-concept-for-2019-frankfurt-auto-show"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124169_cupra-readies-ev-concept-for-2019-frankfurt-auto-show"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Viknesh Vijayenthiran)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124169_cupra-readies-ev-concept-for-2019-frankfurt-auto-show#comments"
+                    },
+                    "category": [
+                        {
+                            "_cdata": "Frankfurt Auto Show"
+                        },
+                        {
+                            "_cdata": "SEAT"
+                        },
+                        {
+                            "_cdata": "Cupra"
+                        }
+                    ],
+                    "dc:creator": {
+                        "_text": "Viknesh Vijayenthiran"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/teaser&#45;for&#45;cupra&#45;ev&#45;concept&#45;debuting&#45;at&#45;2019&#45;frankfurt&#45;auto&#45;show_100709167_t.gif\" width=\"90\" height=\"60\" alt=\"Teaser for Cupra EV concept debuting at 2019 Frankfurt auto show\" align=\"left\" hspace=\"5\" />Cupra, the performance sub&#45;brand of Volkswagen Group's Spanish unit SEAT, will use September's 2019 Frankfurt International Motor Show for the debut of a new concept, one powered by electricity. Cupra on Monday released a teaser shot for its new concept, which is described as a high&#45;performance vehicle combining coupe&#45;like proportions with the..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Electric Ford F-150, Porsche Cayenne E-Hybrid, Honda electric cars: Today's Car News"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/ford&#45;f&#45;150_100709174_t.gif\" width=\"90\" height=\"60\" alt=\"Ford F&#45;Series electric truck prototype\" align=\"left\" hspace=\"5\" />Ford presented its electric F&#45;150 prototype in action. We got a first drive in a U.S.&#45;spec Porsche Cayenne E&#45;Hybrid. Honda is developing a dedicated electric platform for larger cars. And our latest Twitter poll rounds up all the best ads for EVs so far this year. All this and more on Green Car Reports. The 2019 Porsche Cayenne E&#45;Hybrid leads the..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 11:45:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.greencarreports.com/news/1124173_electric-ford-f-150-porsche-cayenne-e-hybrid-honda-electric-cars-todays-car-news"
+                    },
+                    "guid": {
+                        "_text": "https://www.greencarreports.com/news/1124173_electric-ford-f-150-porsche-cayenne-e-hybrid-honda-electric-cars-todays-car-news"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Eric C. Evarts)"
+                    },
+                    "comments": {
+                        "_text": "https://www.greencarreports.com/news/1124173_electric-ford-f-150-porsche-cayenne-e-hybrid-honda-electric-cars-todays-car-news#comments"
+                    },
+                    "category": {
+                        "_cdata": "Today in Car News"
+                    },
+                    "dc:creator": {
+                        "_text": "Eric C. Evarts"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/ford&#45;f&#45;150_100709174_t.gif\" width=\"90\" height=\"60\" alt=\"Ford F&#45;Series electric truck prototype\" align=\"left\" hspace=\"5\" />Ford presented its electric F&#45;150 prototype in action. We got a first drive in a U.S.&#45;spec Porsche Cayenne E&#45;Hybrid. Honda is developing a dedicated electric platform for larger cars. And our latest Twitter poll rounds up all the best ads for EVs so far this year. All this and more on Green Car Reports. The 2019 Porsche Cayenne E&#45;Hybrid leads the..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Corvette chief engineer: No manual for C8, it's a dying business"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;chevrolet&#45;corvette_100708515_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Chevrolet Corvette Stingray\" align=\"left\" hspace=\"5\" />Corvette fans still holding out hope for a manual transmission in the C8 generation of the Chevrolet Corvette, abandon hope. Not only does the Corvette&amp;rsquo;s chief engineer and vehicle line director say the Corvette won&amp;rsquo;t get a manual, but building manual transmissions is a dying industry. When I asked Corvette lead engineer Tadge Juechter..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 11:45:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124170_corvette-chief-engineer-no-manual-for-c8-its-a-dying-business"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124170_corvette-chief-engineer-no-manual-for-c8-its-a-dying-business"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Kirk Bell)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124170_corvette-chief-engineer-no-manual-for-c8-its-a-dying-business#comments"
+                    },
+                    "category": {
+                        "_cdata": "Manual Transmissions"
+                    },
+                    "dc:creator": {
+                        "_text": "Kirk Bell"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;chevrolet&#45;corvette_100708515_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Chevrolet Corvette Stingray\" align=\"left\" hspace=\"5\" />Corvette fans still holding out hope for a manual transmission in the C8 generation of the Chevrolet Corvette, abandon hope. Not only does the Corvette&amp;rsquo;s chief engineer and vehicle line director say the Corvette won&amp;rsquo;t get a manual, but building manual transmissions is a dying industry. When I asked Corvette lead engineer Tadge Juechter..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Electric Ford F-150 prototype shown towing a freight train"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/ford&#45;f&#45;150_100709173_t.gif\" width=\"90\" height=\"60\" alt=\"Ford F&#45;Series electric truck prototype\" align=\"left\" hspace=\"5\" />In Ford's first official tease of an all&#45;electric F&#45;150, released Tuesday&amp;mdash;with a video here&amp;mdash;a test mule is shown towing more than a million pounds. The prototype electric F&#45;150 pickup pulled ten double&#45;decker rail cars, weighing that amount, a distance of 1,000 feet. Then Ford loaded those cars up with 42 gas&#45;powered F&#45;150s..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 11:30:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.greencarreports.com/news/1124171_electric-ford-f-150-prototype-shown-towing-a-freight-train"
+                    },
+                    "guid": {
+                        "_text": "https://www.greencarreports.com/news/1124171_electric-ford-f-150-prototype-shown-towing-a-freight-train"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Eric C. Evarts)"
+                    },
+                    "comments": {
+                        "_text": "https://www.greencarreports.com/news/1124171_electric-ford-f-150-prototype-shown-towing-a-freight-train#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Eric C. Evarts"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/ford&#45;f&#45;150_100709173_t.gif\" width=\"90\" height=\"60\" alt=\"Ford F&#45;Series electric truck prototype\" align=\"left\" hspace=\"5\" />In Ford's first official tease of an all&#45;electric F&#45;150, released Tuesday&amp;mdash;with a video here&amp;mdash;a test mule is shown towing more than a million pounds. The prototype electric F&#45;150 pickup pulled ten double&#45;decker rail cars, weighing that amount, a distance of 1,000 feet. Then Ford loaded those cars up with 42 gas&#45;powered F&#45;150s..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "2020 Sonata Hybrid's fuel efficiency, 2020 Corvette's price efficiency, 2020 Cayenne Hybrid's electric efficiency: What's New @ The Car Connection "
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;hyundai&#45;sonata&#45;hybrid_100708776_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Hyundai Sonata Hybrid\" align=\"left\" hspace=\"5\" />Green machine: 2020 Hyundai Sonata Hybrid debuts with solar roof for better fuel economy The new hybrid sedan sports available solar panels on the roof to extend its range by more than 800 miles a year, according to the automaker. 2020 Kia Telluride is a Top Safety Pick, but only with certain headlights IIHS officials gave the new three&#45;row..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 11:19:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.thecarconnection.com/news/1124172_2020-sonata-hybrids-fuel-efficiency-2020-corvettes-price-efficiency-2020-cayenne-hybrids-electric-efficiency-whats-new-the-car-connection"
+                    },
+                    "guid": {
+                        "_text": "https://www.thecarconnection.com/news/1124172_2020-sonata-hybrids-fuel-efficiency-2020-corvettes-price-efficiency-2020-cayenne-hybrids-electric-efficiency-whats-new-the-car-connection"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Aaron Cole)"
+                    },
+                    "comments": {
+                        "_text": "https://www.thecarconnection.com/news/1124172_2020-sonata-hybrids-fuel-efficiency-2020-corvettes-price-efficiency-2020-cayenne-hybrids-electric-efficiency-whats-new-the-car-connection#comments"
+                    },
+                    "category": {
+                        "_cdata": "Today in Car News"
+                    },
+                    "dc:creator": {
+                        "_text": "Aaron Cole"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;hyundai&#45;sonata&#45;hybrid_100708776_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Hyundai Sonata Hybrid\" align=\"left\" hspace=\"5\" />Green machine: 2020 Hyundai Sonata Hybrid debuts with solar roof for better fuel economy The new hybrid sedan sports available solar panels on the roof to extend its range by more than 800 miles a year, according to the automaker. 2020 Kia Telluride is a Top Safety Pick, but only with certain headlights IIHS officials gave the new three&#45;row..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "2020 Kia Telluride"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;kia&#45;telluride_100696276_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Kia Telluride\" align=\"left\" hspace=\"5\" />The 2020 Kia Telluride is a crossover SUV that uses its blocky styling to stand out in a sea of homogeneous three&#45;row family haulers. With the 2020 Telluride, Kia finally offers a vehicle with room for growing families. The Telluride is the largest crossover sold by Kia, and it&amp;rsquo;s available in LX, S, EX, and SX trim levels. Base versions cost..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 11:04:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.thecarconnection.com/overview/kia_telluride_2020"
+                    },
+                    "guid": {
+                        "_text": "https://www.thecarconnection.com/overview/kia_telluride_2020"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Andrew Ganz)"
+                    },
+                    "comments": {
+                        "_text": "https://www.thecarconnection.com/overview/kia_telluride_2020#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Andrew Ganz"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;kia&#45;telluride_100696276_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Kia Telluride\" align=\"left\" hspace=\"5\" />The 2020 Kia Telluride is a crossover SUV that uses its blocky styling to stand out in a sea of homogeneous three&#45;row family haulers. With the 2020 Telluride, Kia finally offers a vehicle with room for growing families. The Telluride is the largest crossover sold by Kia, and it&amp;rsquo;s available in LX, S, EX, and SX trim levels. Base versions cost..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Saleen S7 Le Mans, Audi SQ7, C8 Corvette 'Ring time: Car News Headlines"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/steve&#45;saleen&#45;at&#45;saleen&#45;launch&#45;in&#45;china_100709144_t.gif\" width=\"90\" height=\"60\" alt=\"Steve Saleen at Saleen launch in China\" align=\"left\" hspace=\"5\" />Saleen has been launched in China as a potential Porsche rival, and to help kick off the launch the company revived its S7 supercar. However, instead of simply rebuilding the previous car, Saleen has dialled the power up to 1,500 horses. Audi's Q7 has just undergone an update, so naturally all the various versions of the mid&#45;size SUV have been..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 11:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.motorauthority.com/news/1124168_saleen-s7-le-mans-audi-sq7-c8-corvette-ring-time-car-news-headlines"
+                    },
+                    "guid": {
+                        "_text": "https://www.motorauthority.com/news/1124168_saleen-s7-le-mans-audi-sq7-c8-corvette-ring-time-car-news-headlines"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Viknesh Vijayenthiran)"
+                    },
+                    "comments": {
+                        "_text": "https://www.motorauthority.com/news/1124168_saleen-s7-le-mans-audi-sq7-c8-corvette-ring-time-car-news-headlines#comments"
+                    },
+                    "category": {
+                        "_cdata": "Today in Car News"
+                    },
+                    "dc:creator": {
+                        "_text": "Viknesh Vijayenthiran"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/steve&#45;saleen&#45;at&#45;saleen&#45;launch&#45;in&#45;china_100709144_t.gif\" width=\"90\" height=\"60\" alt=\"Steve Saleen at Saleen launch in China\" align=\"left\" hspace=\"5\" />Saleen has been launched in China as a potential Porsche rival, and to help kick off the launch the company revived its S7 supercar. However, instead of simply rebuilding the previous car, Saleen has dialled the power up to 1,500 horses. Audi's Q7 has just undergone an update, so naturally all the various versions of the mid&#45;size SUV have been..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Nissan recalls 91K Titan pickup trucks for wiring short"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2019&#45;nissan&#45;titan_100672698_t.gif\" width=\"90\" height=\"60\" alt=\"2019 Nissan Titan\" align=\"left\" hspace=\"5\" />Nearly 100,000 versions of Nissan's full&#45;size Titan pickup truck will be recalled. Per documents the automaker filed with the NHTSA, which the agency made public this week, the truck may be at risk of an electrical short. Specifically, 2017&#45;2019 Nissan Titans are part of the recall and the campaign covers 91,319 vehicles. Nissan said trucks with..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 10:30:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.thecarconnection.com/news/1124167_nissan-recalls-91k-titan-pickup-trucks-for-wiring-short"
+                    },
+                    "guid": {
+                        "_text": "https://www.thecarconnection.com/news/1124167_nissan-recalls-91k-titan-pickup-trucks-for-wiring-short"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.thecarconnection.com/news/1124167_nissan-recalls-91k-titan-pickup-trucks-for-wiring-short#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2019&#45;nissan&#45;titan_100672698_t.gif\" width=\"90\" height=\"60\" alt=\"2019 Nissan Titan\" align=\"left\" hspace=\"5\" />Nearly 100,000 versions of Nissan's full&#45;size Titan pickup truck will be recalled. Per documents the automaker filed with the NHTSA, which the agency made public this week, the truck may be at risk of an electrical short. Specifically, 2017&#45;2019 Nissan Titans are part of the recall and the campaign covers 91,319 vehicles. Nissan said trucks with..."
+                    }
+                },
+                {
+                    "title": {
+                        "_text": "Green machine: 2020 Hyundai Sonata Hybrid debuts with solar roof for better fuel economy"
+                    },
+                    "description": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;hyundai&#45;sonata&#45;hybrid_100708774_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Hyundai Sonata Hybrid\" align=\"left\" hspace=\"5\" />Following the reveal of the dramatic&#45;looking 2020 Hyundai Sonata, the South Korean brand gave us our first look at the sedan's more frugal sibling. On Monday, the 2020 Hyundai Sonata Hybrid bowed and features a solar roof to make the hybrid powertrain a smidge more efficient. The brand estimates the solar roof will help extend driving ranges by..."
+                    },
+                    "pubDate": {
+                        "_text": "Tue, 23 Jul 2019 10:00:00 -0400"
+                    },
+                    "link": {
+                        "_text": "https://www.thecarconnection.com/news/1124164_2020-hyundai-sonata-hybrid-debuts-with-solar-roof-to-extend-efficiencies"
+                    },
+                    "guid": {
+                        "_text": "https://www.thecarconnection.com/news/1124164_2020-hyundai-sonata-hybrid-debuts-with-solar-roof-to-extend-efficiencies"
+                    },
+                    "author": {
+                        "_text": "feedback@highgearmedia.com (Sean Szymkowski)"
+                    },
+                    "comments": {
+                        "_text": "https://www.thecarconnection.com/news/1124164_2020-hyundai-sonata-hybrid-debuts-with-solar-roof-to-extend-efficiencies#comments"
+                    },
+                    "dc:creator": {
+                        "_text": "Sean Szymkowski"
+                    },
+                    "content:encoded": {
+                        "_cdata": "<img src=\"https://images.hgmsites.net/tmb/2020&#45;hyundai&#45;sonata&#45;hybrid_100708774_t.gif\" width=\"90\" height=\"60\" alt=\"2020 Hyundai Sonata Hybrid\" align=\"left\" hspace=\"5\" />Following the reveal of the dramatic&#45;looking 2020 Hyundai Sonata, the South Korean brand gave us our first look at the sedan's more frugal sibling. On Monday, the 2020 Hyundai Sonata Hybrid bowed and features a solar roof to make the hybrid powertrain a smidge more efficient. The brand estimates the solar roof will help extend driving ranges by..."
+                    }
+                }
+            ]
+        }
+    }
+}

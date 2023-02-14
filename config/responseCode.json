@@ -1,0 +1,14 @@
+{		
+	"ok" : 200,
+	"created" : 201,
+	"noContent" : 204,		
+	"badRequest" : 400,		
+	"unauthorised" : 401,		
+	"forbidden" : 403,		
+	"notFound" : 404,	
+	"wrongHttp" : 405,		
+	"conflict" : 409,	 
+	"gone" : 410,	
+	"serverException" : 500,
+	"sessionExpired" : 440
+}
